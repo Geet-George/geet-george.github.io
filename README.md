@@ -1,6 +1,6 @@
 # Repo for personal page
 
-This is a git repo where I meddle around with files and scripts that are ultimately compiled to produce [my personal page](geet-george.github.io). 
+This is a git repo where I meddle around with files and scripts that are ultimately compiled to produce [my personal page](https://geet-george.github.io). 
 
 All credit for everything in the repo goes to the [academicpages repository](https://github.com/academicpages/academicpages.github.io). My repo is essentially just a customised fork of theirs.
 
