@@ -10,10 +10,31 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* B.Tech (Hons). in Civil Engineering, CEPT University, 2014
-* M.Tech. in Environmental Engineering, IIT Kanpur, 2017
-* Ph.D in Earth System Sciences (Atmospheric Science), Max Planck Insitute for Meteorology / Uni. Hamburg, 2021
+======  
+<!-- 
+|2018 - 2021|**Ph.D (magna cum laude) in Earth System Sciences**|
+|---|---|
+||_Max Planck Insitute for Meteorology (affil. Uni. Hamburg), 2021_|
+||Thesis: Observations of meso-scale circulation and its relationship with cloudiness in the Tropics|
+||Supervisors: Drs. Bjorn Stevens, Sandrine Bony & Marcus Klingebiel|
+
+ -->
+
+* **Ph.D (magna cum laude) in Earth System Sciences**, 2021 <br>
+  Max Planck Insitute for Meteorology (affil. Uni. Hamburg), Hamburg, Germany <br>
+  Thesis: _Observations of meso-scale circulation and its relationship with cloudiness in the Tropics_ <br>
+  Supervisors: _Drs. Bjorn Stevens, Sandrine Bony & Marcus Klingebiel_
+  
+* **M.Tech. in Environmental Engineering**, 2017 <br>
+  Indian Institute of Technology Kanpur, Kanpur, India<br>
+  Thesis: _Characterisation of cloud vertical structure and cloud radiative forcing over Kanpur_ <br>
+  Supervisor: _Dr. S. N. Tripathi_
+  
+* **B.Tech (Hons). in Civil Engineering**, 2014 <br>
+  Faculty of Technology, CEPT University, Ahmedabad, India <br>
+  Thesis: _Comparative study of pile capacity calculation methods using static formulae._ <br>
+  Supervisor: _Bhargav Tewar_
+
 
 Work experience
 ======
