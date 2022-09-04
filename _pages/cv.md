@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech (Hons). in Civil Engineering, CEPT University, 2014
+* M.Tech. in Environmental Engineering, IIT Kanpur, 2017
+* Ph.D in Earth System Sciences (Atmospheric Science), Max Planck Insitute for Meteorology / Uni. Hamburg, 2021
 
 Work experience
 ======
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -35,7 +35,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
+ -->
 Publications
 ======
   <ul>{% for post in site.publications %}
