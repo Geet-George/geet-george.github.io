@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-## 🚧 🚧 🚧 🚧 THIS WEBPAGE IS CURRENTLY UNDER CONSTRUCTION (You might come across incomplete pages, broken lines and sometimes just straight up nonsense!) 🚧 🚧 🚧 🚧 
+## 🚧 🚧 🚧 🚧 CURRENTLY UNDER CONSTRUCTION! The page should be back soon in a few days. 🚧 🚧 🚧 🚧 
 
-Welcome to this mess of a personal webpage that I am somehow trying to put together in the hope that you leave absolutely dazzled. I understand how the previous statement might have worked to counter my objective. I also realise the irony of that last statement...
+<!-- Welcome to this mess of a personal webpage that I am somehow trying to put together in the hope that you leave absolutely dazzled. I understand how the previous statement might have worked to counter my objective. I also realise the irony of that last statement...
 
-Anyway, I am Geet George, a post-doc working with the Tropical Cloud Observations group at the Max Planck Institute for Meteorology. My research mainly circles around the coupling of circulation and clouds in the trades.
+Anyway, 
+ -->
+I am Geet George, a post-doc working with the Tropical Cloud Observations group at the Max Planck Institute for Meteorology. My research mainly circles around the coupling of circulation and clouds in the tropics.
 
 Hope you have a good time here,  
 Geet
