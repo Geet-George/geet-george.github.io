@@ -134,7 +134,7 @@ h6 {
 
 @media (max-width: 1199px) {
   #header {
-    left: 200px;
+    left: -200px;
   }
 
   #main {
@@ -305,7 +305,7 @@ h6 {
 --------------------------------------------------------------*/
 section {
   /* height: 100vh; */
-  padding: 60px 120px;
+  padding: 60px 60px;
   overflow: hidden;
 }
 
@@ -345,7 +345,7 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  height: 100vh;
+  /* height: 100vh; */
   background: url("../img/geet_looking_at_clouds-81082022110401.jpg") top center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -538,7 +538,7 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio {
-  height: 100vh;
+  /* height: 100vh; */
   background: url("../img/waldemar-brandt-zHY3gs9-j_A-unsplash.jpg") top center;
   /* background-size: cover; */
   background-size: cover;
