@@ -230,15 +230,15 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/clouds-circulation-schematic.jpg") bottom center;
-  /* background-size: cover; */
-  background-size: contain;
-  background-repeat: no-repeat;
 }
 
 #hero:before {
   content: "";
-  background: rgba(218, 232, 252, 0.3);
+  /* background: rgba(218, 232, 252, 0.3); */
+  background: url("../img/halo_satellite_clouds.gif") center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  opacity: .7;
   position: absolute;
   bottom: 0;
   top: 0;
@@ -263,7 +263,7 @@ h6 {
 }
 
 #hero h3 {
-  color: rgb(90, 73, 158)
+  color: rgb(66, 53, 114)
 }
 
 #hero p {
@@ -345,12 +345,14 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  /* height: 100vh; */
-  background: url("../img/geet_looking_at_clouds-81082022110401.jpg") top center;
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
+  background: url("../img/xiuhao-lin-lREC-3pr_ts-unsplash.jpg") top center;
+  /* background-color: #dbe7e0; */
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.95;
-
 }
 
 .about .content h3 {
