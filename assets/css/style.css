@@ -540,7 +540,9 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 .portfolio {
-  /* height: 100vh; */
+  width: 100%;
+  height: 100vh;
+  overflow: auto;
   background: url("../img/waldemar-brandt-zHY3gs9-j_A-unsplash.jpg") top center;
   /* background-size: cover; */
   background-size: cover;
